@@ -6,5 +6,6 @@
 
 import paddle
 
+
 def convolutional_neural_network():
     img = paddle.fluid.layers.data(name='pixel',type=paddle.fluid.data_type)
