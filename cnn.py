@@ -9,3 +9,6 @@ import paddle
 
 def convolutional_neural_network():
     img = paddle.fluid.layers.data(name='pixel',type=paddle.fluid.data_type)
+
+if __name__ == '__main__':
+    print()

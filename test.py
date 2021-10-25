@@ -5,3 +5,5 @@
 # @File    :   test.py
 
 import os
+if __name__ == '__main__':
+    pass
